@@ -17,6 +17,7 @@
     background-color: azure;
     padding: 10px;
     margin: 5%;
+    text-align: center;
 
 }
 
@@ -25,8 +26,29 @@
 }
 
 .informações-texto{
-    text-align: center;
+    text-align:justify;
 }
 .informações-2-titulo2{
     text-align: center;
 }
+.informações-titulo{
+    text-align: center;
+}
+
+.informações-2{
+    padding: 10px;
+    margin: 5%;
+    
+}
+.informações-2-texto2{
+    text-align: justify;
+}
+
+.rodapé{
+    background-color: black;
+    color: azure;
+    padding: 10px;
+    margin: 5%;
+}
+
+
